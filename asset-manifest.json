@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bp.skyamg-front/static/css/main.604d507c.css",
-    "main.js": "/bp.skyamg-front/static/js/main.8cf86ccb.js",
+    "main.js": "/bp.skyamg-front/static/js/main.2836c78b.js",
     "static/js/787.7df8f71c.chunk.js": "/bp.skyamg-front/static/js/787.7df8f71c.chunk.js",
     "static/media/영상판독.png": "/bp.skyamg-front/static/media/영상판독.8137b2ca0a58dc3c9a78.png",
     "static/media/MRI.png": "/bp.skyamg-front/static/media/MRI.3cda3d34f021f8de9d1b.png",
@@ -43,7 +43,6 @@
     "static/media/sbk1.png": "/bp.skyamg-front/static/media/sbk1.798fb939f6ef225d2492.png",
     "static/media/derimg_1.jpg": "/bp.skyamg-front/static/media/derimg_1.be6a3f0050d28103e387.jpg",
     "static/media/sbk2.png": "/bp.skyamg-front/static/media/sbk2.db708195f38c98c5b643.png",
-    "static/media/bp_2025052101.png": "/bp.skyamg-front/static/media/bp_2025052101.f1eaabdf267fb9846085.png",
     "static/media/bg_lami2.jpg": "/bp.skyamg-front/static/media/bg_lami2.b1d47638a74ff6b553b6.jpg",
     "static/media/phyimg_1.jpg": "/bp.skyamg-front/static/media/phyimg_1.a697a83b5de49d3fe178.jpg",
     "static/media/emeimg_1.jpg": "/bp.skyamg-front/static/media/emeimg_1.4278cd21c967e0f7194a.jpg",
@@ -113,6 +112,7 @@
     "static/media/처치.jpg": "/bp.skyamg-front/static/media/처치.1d2f759420d9426b185b.jpg",
     "static/media/고양이대기실.jpg": "/bp.skyamg-front/static/media/고양이대기실.efa45ed0174bafd1d54e.jpg",
     "static/media/진료실내부.jpg": "/bp.skyamg-front/static/media/진료실내부.510a83756ae6b7315b1d.jpg",
+    "static/media/bp_2025080801.png": "/bp.skyamg-front/static/media/bp_2025080801.c4b62d57e6b98ace0081.png",
     "static/media/구월지웰시티푸르지오_인천스카이동물메디컬센터_주차_안내_1.jpeg": "/bp.skyamg-front/static/media/구월지웰시티푸르지오_인천스카이동물메디컬센터_주차_안내_1.aa25717dde1e1bf804b1.jpeg",
     "static/media/OLYMPUS THUNDERBEAT .png": "/bp.skyamg-front/static/media/OLYMPUS THUNDERBEAT .f70dab8e8d4081853103.png",
     "static/media/스카이입원실_2.jpeg": "/bp.skyamg-front/static/media/스카이입원실_2.e4df09ead491946b9c50.jpeg",
@@ -127,6 +127,7 @@
     "static/media/EO gas.jpg": "/bp.skyamg-front/static/media/EO gas.0e1fdbb6dd6de6ed5a0e.jpg",
     "static/media/GENORAY C-ARM OSCAR PRIME.jpg": "/bp.skyamg-front/static/media/GENORAY C-ARM OSCAR PRIME.ec7701537252106ee9d2.jpg",
     "static/media/수원척추X-ray.jpeg": "/bp.skyamg-front/static/media/수원척추X-ray.3c5faab70f8dec96e140.jpeg",
+    "static/media/bp_2025080802.png": "/bp.skyamg-front/static/media/bp_2025080802.ae59543041c3aa061d85.png",
     "static/media/스카이X-ray.jpeg": "/bp.skyamg-front/static/media/스카이X-ray.2f130c88d34db5822486.jpeg",
     "static/media/STRYKER SONOPET.jpg": "/bp.skyamg-front/static/media/STRYKER SONOPET.897081c08c34695defc7.jpg",
     "static/media/스카이유기동물사료.jpeg": "/bp.skyamg-front/static/media/스카이유기동물사료.c8149e6fbd398fbf9b7e.jpeg",
@@ -175,11 +176,11 @@
     "index.html": "/bp.skyamg-front/index.html",
     "static/media/slick.woff": "/bp.skyamg-front/static/media/slick.295183786cd8a1389865.woff",
     "main.604d507c.css.map": "/bp.skyamg-front/static/css/main.604d507c.css.map",
-    "main.8cf86ccb.js.map": "/bp.skyamg-front/static/js/main.8cf86ccb.js.map",
+    "main.2836c78b.js.map": "/bp.skyamg-front/static/js/main.2836c78b.js.map",
     "787.7df8f71c.chunk.js.map": "/bp.skyamg-front/static/js/787.7df8f71c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.604d507c.css",
-    "static/js/main.8cf86ccb.js"
+    "static/js/main.2836c78b.js"
   ]
 }
