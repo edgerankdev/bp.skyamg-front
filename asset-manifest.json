@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bp.skyamg-front/static/css/main.604d507c.css",
-    "main.js": "/bp.skyamg-front/static/js/main.2836c78b.js",
+    "main.js": "/bp.skyamg-front/static/js/main.808be173.js",
     "static/js/787.7df8f71c.chunk.js": "/bp.skyamg-front/static/js/787.7df8f71c.chunk.js",
     "static/media/영상판독.png": "/bp.skyamg-front/static/media/영상판독.8137b2ca0a58dc3c9a78.png",
     "static/media/MRI.png": "/bp.skyamg-front/static/media/MRI.3cda3d34f021f8de9d1b.png",
@@ -90,6 +90,7 @@
     "static/media/현미경_01.jpg": "/bp.skyamg-front/static/media/현미경_01.356342ccd6fc10abcb70.jpg",
     "static/media/visual_eme.jpeg": "/bp.skyamg-front/static/media/visual_eme.342c38e45feb3af8fe81.jpeg",
     "static/media/gsimg_tumor.jpg": "/bp.skyamg-front/static/media/gsimg_tumor.872d48bcb2ae990b5a5e.jpg",
+    "static/media/bp_2025081201.png": "/bp.skyamg-front/static/media/bp_2025081201.837aebfc8153998b007f.png",
     "static/media/고양이대기실_2.jpg": "/bp.skyamg-front/static/media/고양이대기실_2.fd92b8ae7cedabfe5a80.jpg",
     "static/media/gsimg_gs.jpg": "/bp.skyamg-front/static/media/gsimg_gs.a98e164ba1514f13b90b.jpg",
     "static/media/visual_gs.jpeg": "/bp.skyamg-front/static/media/visual_gs.339a702bec210533bad4.jpeg",
@@ -176,11 +177,11 @@
     "index.html": "/bp.skyamg-front/index.html",
     "static/media/slick.woff": "/bp.skyamg-front/static/media/slick.295183786cd8a1389865.woff",
     "main.604d507c.css.map": "/bp.skyamg-front/static/css/main.604d507c.css.map",
-    "main.2836c78b.js.map": "/bp.skyamg-front/static/js/main.2836c78b.js.map",
+    "main.808be173.js.map": "/bp.skyamg-front/static/js/main.808be173.js.map",
     "787.7df8f71c.chunk.js.map": "/bp.skyamg-front/static/js/787.7df8f71c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.604d507c.css",
-    "static/js/main.2836c78b.js"
+    "static/js/main.808be173.js"
   ]
 }
