@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bp.skyamg-front/static/css/main.604d507c.css",
-    "main.js": "/bp.skyamg-front/static/js/main.5363577b.js",
+    "main.js": "/bp.skyamg-front/static/js/main.b6c26e31.js",
     "static/js/787.7df8f71c.chunk.js": "/bp.skyamg-front/static/js/787.7df8f71c.chunk.js",
     "static/media/영상판독.png": "/bp.skyamg-front/static/media/영상판독.8137b2ca0a58dc3c9a78.png",
     "static/media/MRI.png": "/bp.skyamg-front/static/media/MRI.3cda3d34f021f8de9d1b.png",
@@ -90,7 +90,6 @@
     "static/media/현미경_01.jpg": "/bp.skyamg-front/static/media/현미경_01.356342ccd6fc10abcb70.jpg",
     "static/media/visual_eme.jpeg": "/bp.skyamg-front/static/media/visual_eme.342c38e45feb3af8fe81.jpeg",
     "static/media/gsimg_tumor.jpg": "/bp.skyamg-front/static/media/gsimg_tumor.872d48bcb2ae990b5a5e.jpg",
-    "static/media/bp_2025081201.png": "/bp.skyamg-front/static/media/bp_2025081201.837aebfc8153998b007f.png",
     "static/media/고양이대기실_2.jpg": "/bp.skyamg-front/static/media/고양이대기실_2.fd92b8ae7cedabfe5a80.jpg",
     "static/media/gsimg_gs.jpg": "/bp.skyamg-front/static/media/gsimg_gs.a98e164ba1514f13b90b.jpg",
     "static/media/visual_gs.jpeg": "/bp.skyamg-front/static/media/visual_gs.339a702bec210533bad4.jpeg",
@@ -135,6 +134,7 @@
     "static/media/PORTABLE 내시경.jpg": "/bp.skyamg-front/static/media/PORTABLE 내시경.92ef04153dd1cf410dc1.jpg",
     "static/media/P1 Diode laser.jpg": "/bp.skyamg-front/static/media/P1 Diode laser.1793b65e01f301117796.jpg",
     "static/media/진료비안내_부평점_1.PNG": "/bp.skyamg-front/static/media/진료비안내_부평점_1.91f3c2b38070f327f9e6.PNG",
+    "static/media/bp_2025091801.png": "/bp.skyamg-front/static/media/bp_2025091801.280c458e57b20183f3ab.png",
     "static/media/수원척수MRI_2.jpeg": "/bp.skyamg-front/static/media/수원척수MRI_2.d05c9a2b91ca98d6cb16.jpeg",
     "static/media/고압산소 챔버.jpg": "/bp.skyamg-front/static/media/고압산소 챔버.4a92e1756165db982ed3.jpg",
     "static/media/스카이초음파실.jpeg": "/bp.skyamg-front/static/media/스카이초음파실.e572fa90f145cf2bf6f3.jpeg",
@@ -177,11 +177,11 @@
     "index.html": "/bp.skyamg-front/index.html",
     "static/media/slick.woff": "/bp.skyamg-front/static/media/slick.295183786cd8a1389865.woff",
     "main.604d507c.css.map": "/bp.skyamg-front/static/css/main.604d507c.css.map",
-    "main.5363577b.js.map": "/bp.skyamg-front/static/js/main.5363577b.js.map",
+    "main.b6c26e31.js.map": "/bp.skyamg-front/static/js/main.b6c26e31.js.map",
     "787.7df8f71c.chunk.js.map": "/bp.skyamg-front/static/js/787.7df8f71c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.604d507c.css",
-    "static/js/main.5363577b.js"
+    "static/js/main.b6c26e31.js"
   ]
 }
