@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bp.skyamg-front/static/css/main.604d507c.css",
-    "main.js": "/bp.skyamg-front/static/js/main.2c2089bf.js",
+    "main.js": "/bp.skyamg-front/static/js/main.15366f3d.js",
     "static/js/787.7df8f71c.chunk.js": "/bp.skyamg-front/static/js/787.7df8f71c.chunk.js",
     "static/media/영상판독.png": "/bp.skyamg-front/static/media/영상판독.8137b2ca0a58dc3c9a78.png",
     "static/media/MRI.png": "/bp.skyamg-front/static/media/MRI.3cda3d34f021f8de9d1b.png",
@@ -17,15 +17,10 @@
     "static/media/노정은.png": "/bp.skyamg-front/static/media/노정은.3f4d3f94c260a0a6a417.png",
     "static/media/이지은.png": "/bp.skyamg-front/static/media/이지은.0d1ad535ed880b6c8302.png",
     "static/media/최민정.png": "/bp.skyamg-front/static/media/최민정.b29b4de5502471f53468.png",
-    "static/media/최정민.png": "/bp.skyamg-front/static/media/최정민.560e973f6055520793c6.png",
     "static/media/임가영.png": "/bp.skyamg-front/static/media/임가영.db98d56ca28958e68e84.png",
-    "static/media/이호연.png": "/bp.skyamg-front/static/media/이호연.2bb7a5f537e7192fa7e4.png",
     "static/media/이희수.png": "/bp.skyamg-front/static/media/이희수.3b488057bc617240b305.png",
     "static/media/김동욱.png": "/bp.skyamg-front/static/media/김동욱.79a4e0102c03f6a2c74b.png",
     "static/media/백주예.png": "/bp.skyamg-front/static/media/백주예.b3fb88bbd7eb85c4ea1f.png",
-    "static/media/유현철.png": "/bp.skyamg-front/static/media/유현철.c699b3633e40be12c4ad.png",
-    "static/media/천병규.png": "/bp.skyamg-front/static/media/천병규.c5d55f3581a2a4dafe29.png",
-    "static/media/정기욱.png": "/bp.skyamg-front/static/media/정기욱.2367e4002814e4bc3e03.png",
     "static/media/황야원.png": "/bp.skyamg-front/static/media/황야원.7159b86b4db8248fd009.png",
     "static/media/원주연.png": "/bp.skyamg-front/static/media/원주연.54ca4496b350bc8fab65.png",
     "static/media/이아림.png": "/bp.skyamg-front/static/media/이아림.96ff1a85b2d28b01f360.png",
@@ -39,11 +34,9 @@
     "static/media/portfolio_062119.jpg": "/bp.skyamg-front/static/media/portfolio_062119.cf14f09ec740eec8f2f1.jpg",
     "static/media/4.png": "/bp.skyamg-front/static/media/4.eab254b00ec54e352e91.png",
     "static/media/derimg_4.jpg": "/bp.skyamg-front/static/media/derimg_4.0057926baf75e3c330a5.jpg",
-    "static/media/sbk1.png": "/bp.skyamg-front/static/media/sbk1.798fb939f6ef225d2492.png",
     "static/media/derimg_1.jpg": "/bp.skyamg-front/static/media/derimg_1.be6a3f0050d28103e387.jpg",
     "static/media/최혜은.png": "/bp.skyamg-front/static/media/최혜은.ba67e9474810bb4a3c08.png",
     "static/media/김동준.png": "/bp.skyamg-front/static/media/김동준.b5f3a57b8a519a6fb388.png",
-    "static/media/sbk2.png": "/bp.skyamg-front/static/media/sbk2.db708195f38c98c5b643.png",
     "static/media/bg_lami2.jpg": "/bp.skyamg-front/static/media/bg_lami2.b1d47638a74ff6b553b6.jpg",
     "static/media/phyimg_1.jpg": "/bp.skyamg-front/static/media/phyimg_1.a697a83b5de49d3fe178.jpg",
     "static/media/emeimg_1.jpg": "/bp.skyamg-front/static/media/emeimg_1.4278cd21c967e0f7194a.jpg",
@@ -178,11 +171,11 @@
     "index.html": "/bp.skyamg-front/index.html",
     "static/media/slick.woff": "/bp.skyamg-front/static/media/slick.295183786cd8a1389865.woff",
     "main.604d507c.css.map": "/bp.skyamg-front/static/css/main.604d507c.css.map",
-    "main.2c2089bf.js.map": "/bp.skyamg-front/static/js/main.2c2089bf.js.map",
+    "main.15366f3d.js.map": "/bp.skyamg-front/static/js/main.15366f3d.js.map",
     "787.7df8f71c.chunk.js.map": "/bp.skyamg-front/static/js/787.7df8f71c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.604d507c.css",
-    "static/js/main.2c2089bf.js"
+    "static/js/main.15366f3d.js"
   ]
 }
